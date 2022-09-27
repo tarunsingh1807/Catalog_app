@@ -53,6 +53,7 @@ class Homepage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text("Catalog_App"),
+        
       ),
       body: Material(
         child: Center(
